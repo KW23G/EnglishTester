@@ -8,8 +8,8 @@ When everything is done, you can type 'testme' in the terminal to practise your 
 
 How we do it:
 
-1: we get a json file with most/all of the english words.
+1: we get a  file with most/all of the english words.
 
-2: we write a Python script that translates the words and changes the json file
+2: we write a Python script that translates the words and creates a json file with the words
 
-3: we create the real program that checks you in C and Python
+3: we create the real program that checks you (in C)
