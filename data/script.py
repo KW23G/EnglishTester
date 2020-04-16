@@ -11,6 +11,10 @@ translator = Translator(to_lang="de")
 def trans(en_word):
     return translator.translate(en_word)
 
+
+def create_dict(keys, values):
+    return {k: v for k, v in zip(keys, values)}
+
 #################################################
 
 
@@ -24,5 +28,10 @@ if "data.json" not in os.listdir():
 
 big_dict = {word: {"translation": trans(word), "level": 3} for word in all_words}
 
+l = int(len(big_dict) / 4)
+
+big_list = [create_dict(list(big_dict.keys())[0:l], list(big_dict.values())[0:l]), create_dict(list(big_dict.keys())[l:(2*l)], list(big_dict.values())[l:(2*l)]),
+            create_dict(list(big_dict.keys())[(2*l):(3*l)], list(big_dict.values())[(2*l):(3*l)]), create_dict(list(big_dict.keys())[(3*l):], list(big_dict.values())[(3*l):])]
+
 with open("data.json", "w") as f:
-    json.dump(big_dict, f)
+    json.dump(big_list, f)
