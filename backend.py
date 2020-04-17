@@ -3,9 +3,13 @@ import json
 # helper functions:
 
 
-def read():
-    with open("data/data.json", "r") as f:
+def read(file):
+    with open(f"data/{file}", "r") as f:
         return json.load(f)
+
+
+def create_dict(keys, values):
+    return {k: v for k, v in zip(keys, values)}
 
 ###########################
 
@@ -15,7 +19,7 @@ def get_word(lan):  # lan = de / en
 
 
 def check_translation(en, de):
-    file = read()
+    file = read("en_keys.json")
 
     for x in range(4):
         if en in file[x]:

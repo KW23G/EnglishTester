@@ -1,4 +1,4 @@
-#  from en_words.txt -> data.json
+#  from en_words.txt -> en_to_de.json + de_to_en.json
 
 #################################################
 
@@ -23,15 +23,34 @@ with open("en_words.txt", "r") as f:
 
 all_words = all_words[100:]
 
-if "data.json" not in os.listdir():
-    os.system("touch data.json")
+if "en_to_de.json" not in os.listdir():
+    os.system("touch en_to_de.json")
 
-big_dict = {word: {"translation": trans(word), "level": 3} for word in all_words}
+if "de_to_de.json" not in os.listdir():
+    os.system("touch de_to_de.json")
 
-l = int(len(big_dict) / 4)
+###################
+# en - de:
 
-big_list = [create_dict(list(big_dict.keys())[0:l], list(big_dict.values())[0:l]), create_dict(list(big_dict.keys())[l:(2*l)], list(big_dict.values())[l:(2*l)]),
-            create_dict(list(big_dict.keys())[(2*l):(3*l)], list(big_dict.values())[(2*l):(3*l)]), create_dict(list(big_dict.keys())[(3*l):], list(big_dict.values())[(3*l):])]
+# big_dict1 = {word: {"translation": trans(word), "level": 3} for word in all_words}
 
-with open("data.json", "w") as f:
-    json.dump(big_list, f)
+# l = int(len(big_dict1) / 4)
+
+# big_list1 = [create_dict(list(big_dict1.keys())[0:l], list(big_dict1.values())[0:l]), create_dict(list(big_dict1.keys())[l:(2*l)], list(big_dict1.values())[l:(2*l)]),
+    # create_dict(list(big_dict1.keys())[(2*l):(3*l)], list(big_dict1.values())[(2*l):(3*l)]), create_dict(list(big_dict1.keys())[(3*l):], list(big_dict1.values())[(3*l):])]
+
+# with open("en_to_de.json", "w") as f:
+    # json.dump(big_list1, f)
+
+###################
+# de - en:
+
+big_dict2 = {trans(word): {"translation": word, "level": 3} for word in all_words}
+
+l = int(len(big_dict2) / 4)
+
+big_list2 = [create_dict(list(big_dict2.keys())[0:l], list(big_dict2.values())[0:l]), create_dict(list(big_dict2.keys())[l:(2*l)], list(big_dict2.values())[l:(2*l)]),
+             create_dict(list(big_dict2.keys())[(2*l):(3*l)], list(big_dict2.values())[(2*l):(3*l)]), create_dict(list(big_dict2.keys())[(3*l):], list(big_dict2.values())[(3*l):])]
+
+with open("de_to_de.json", "w") as f:
+    json.dump(big_list2, f)

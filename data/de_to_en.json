@@ -1,0 +1,2850 @@
+[
+    {
+        "jede": {
+            "translation": "any",
+            "level": 3
+        },
+        "neu": {
+            "translation": "new",
+            "level": 3
+        },
+        "Arrbeit": {
+            "translation": "work",
+            "level": 3
+        },
+        "Teil": {
+            "translation": "part",
+            "level": 3
+        },
+        "nehmen": {
+            "translation": "take",
+            "level": 3
+        },
+        "Hole": {
+            "translation": "get",
+            "level": 3
+        },
+        "Ort": {
+            "translation": "place",
+            "level": 3
+        },
+        "gemacht": {
+            "translation": "made",
+            "level": 3
+        },
+        "LIVE": {
+            "translation": "live",
+            "level": 3
+        },
+        "wobei gilt": {
+            "translation": "where",
+            "level": 3
+        },
+        "nach": {
+            "translation": "after",
+            "level": 3
+        },
+        "Rücken": {
+            "translation": "back",
+            "level": 3
+        },
+        "klein": {
+            "translation": "small",
+            "level": 3
+        },
+        "Carsharing": {
+            "translation": "only",
+            "level": 3
+        },
+        "Runde": {
+            "translation": "round",
+            "level": 3
+        },
+        "Mann": {
+            "translation": "man",
+            "level": 3
+        },
+        "Jahr": {
+            "translation": "year",
+            "level": 3
+        },
+        "wird": {
+            "translation": "came",
+            "level": 3
+        },
+        "show": {
+            "translation": "show",
+            "level": 3
+        },
+        "alle": {
+            "translation": "every",
+            "level": 3
+        },
+        "gut": {
+            "translation": "good",
+            "level": 3
+        },
+        "ich": {
+            "translation": "me",
+            "level": 3
+        },
+        "geben": {
+            "translation": "give",
+            "level": 3
+        },
+        "unsere": {
+            "translation": "our",
+            "level": 3
+        },
+        "Under-DE": {
+            "translation": "under",
+            "level": 3
+        },
+        "Name": {
+            "translation": "name",
+            "level": 3
+        },
+        "sehr": {
+            "translation": "very",
+            "level": 3
+        },
+        "durch": {
+            "translation": "through",
+            "level": 3
+        },
+        "gerade": {
+            "translation": "straight",
+            "level": 3
+        },
+        "formular": {
+            "translation": "form",
+            "level": 3
+        },
+        "Gerichtsurteil": {
+            "translation": "sentence",
+            "level": 3
+        },
+        "Sonder-": {
+            "translation": "great",
+            "level": 3
+        },
+        "denken": {
+            "translation": "think",
+            "level": 3
+        },
+        "sagen": {
+            "translation": "say",
+            "level": 3
+        },
+        "Hilfe": {
+            "translation": "help",
+            "level": 3
+        },
+        "niedrig": {
+            "translation": "low",
+            "level": 3
+        },
+        "linie": {
+            "translation": "line",
+            "level": 3
+        },
+        "Differenz": {
+            "translation": "differ",
+            "level": 3
+        },
+        "Windung": {
+            "translation": "turn",
+            "level": 3
+        },
+        "keinerlei": {
+            "translation": "cause",
+            "level": 3
+        },
+        ".": {
+            "translation": "process",
+            "level": 3
+        },
+        "Mittelwert": {
+            "translation": "mean",
+            "level": 3
+        },
+        "bevor": {
+            "translation": "before",
+            "level": 3
+        },
+        "es bewegt sich jedoch nicht": {
+            "translation": "move",
+            "level": 3
+        },
+        "Rechtsbündig": {
+            "translation": "right",
+            "level": 3
+        },
+        "Junge": {
+            "translation": "boy",
+            "level": 3
+        },
+        "Alt": {
+            "translation": "old",
+            "level": 3
+        },
+        "auch": {
+            "translation": "also",
+            "level": 3
+        },
+        "Unterlagen einreichen,": {
+            "translation": "same",
+            "level": 3
+        },
+        "Erzählen": {
+            "translation": "tell",
+            "level": 3
+        },
+        "braucht": {
+            "translation": "does",
+            "level": 3
+        },
+        "Einstellen": {
+            "translation": "set",
+            "level": 3
+        },
+        "drei": {
+            "translation": "three",
+            "level": 3
+        },
+        "wollen": {
+            "translation": "want",
+            "level": 3
+        },
+        "Luft": {
+            "translation": "air",
+            "level": 3
+        },
+        "Brunnen": {
+            "translation": "well",
+            "level": 3
+        },
+        "Abspielen": {
+            "translation": "play",
+            "level": 3
+        },
+        "Ende": {
+            "translation": "end",
+            "level": 3
+        },
+        "put": {
+            "translation": "put",
+            "level": 3
+        },
+        "Startseite": {
+            "translation": "home",
+            "level": 3
+        },
+        "gelesenen Büchern": {
+            "translation": "read",
+            "level": 3
+        },
+        "Hand": {
+            "translation": "hand",
+            "level": 3
+        },
+        "Hafen": {
+            "translation": "port",
+            "level": 3
+        },
+        "groß": {
+            "translation": "tall",
+            "level": 3
+        },
+        "buchstabieren": {
+            "translation": "spell",
+            "level": 3
+        },
+        "Hinzufügen": {
+            "translation": "add",
+            "level": 3
+        },
+        "sie": {
+            "translation": "even",
+            "level": 3
+        },
+        "Land": {
+            "translation": "nation",
+            "level": 3
+        },
+        "hier": {
+            "translation": "here",
+            "level": 3
+        },
+        "Auftragnehmer": {
+            "translation": "must",
+            "level": 3
+        },
+        "big": {
+            "translation": "big",
+            "level": 3
+        },
+        "Hoch": {
+            "translation": "high",
+            "level": 3
+        },
+        "z.": {
+            "translation": "such",
+            "level": 3
+        },
+        "folgen": {
+            "translation": "follow",
+            "level": 3
+        },
+        "handeln": {
+            "translation": "act",
+            "level": 3
+        },
+        "warum": {
+            "translation": "why",
+            "level": 3
+        },
+        "fragen": {
+            "translation": "ask",
+            "level": 3
+        },
+        "Männer": {
+            "translation": "men",
+            "level": 3
+        },
+        "Veränderung": {
+            "translation": "change",
+            "level": 3
+        },
+        "ging": {
+            "translation": "went",
+            "level": 3
+        },
+        "leicht": {
+            "translation": "light",
+            "level": 3
+        },
+        "Sachleistungen": {
+            "translation": "kind",
+            "level": 3
+        },
+        "aus": {
+            "translation": "off",
+            "level": 3
+        },
+        "benötigt": {
+            "translation": "need",
+            "level": 3
+        },
+        "Haus": {
+            "translation": "house",
+            "level": 3
+        },
+        "Bild": {
+            "translation": "picture",
+            "level": 3
+        },
+        "versuchen": {
+            "translation": "try",
+            "level": 3
+        },
+        "us": {
+            "translation": "us",
+            "level": 3
+        },
+        "nochmal": {
+            "translation": "again",
+            "level": 3
+        },
+        "Tier": {
+            "translation": "animal",
+            "level": 3
+        },
+        "Punkt": {
+            "translation": "point",
+            "level": 3
+        },
+        "Mutter": {
+            "translation": "mother",
+            "level": 3
+        },
+        "Welt": {
+            "translation": "world",
+            "level": 3
+        },
+        "In der Nähe von": {
+            "translation": "near",
+            "level": 3
+        },
+        "Bauen": {
+            "translation": "build",
+            "level": 3
+        },
+        "Selbst": {
+            "translation": "self",
+            "level": 3
+        },
+        "Erde": {
+            "translation": "soil",
+            "level": 3
+        },
+        "Vater": {
+            "translation": "father",
+            "level": 3
+        },
+        "Kopf": {
+            "translation": "head",
+            "level": 3
+        },
+        "Ständer": {
+            "translation": "stand",
+            "level": 3
+        },
+        "eigene": {
+            "translation": "own",
+            "level": 3
+        },
+        "Seite": {
+            "translation": "page",
+            "level": 3
+        },
+        "sollten": {
+            "translation": "should",
+            "level": 3
+        },
+        "gefunden": {
+            "translation": "found",
+            "level": 3
+        },
+        "Antwort": {
+            "translation": "answer",
+            "level": 3
+        },
+        "Schul-": {
+            "translation": "school",
+            "level": 3
+        },
+        "Steigerung": {
+            "translation": "grow",
+            "level": 3
+        },
+        "Lernen": {
+            "translation": "study",
+            "level": 3
+        },
+        "still": {
+            "translation": "silent",
+            "level": 3
+        },
+        "lernen": {
+            "translation": "learn",
+            "level": 3
+        },
+        "Pflanze": {
+            "translation": "plant",
+            "level": 3
+        },
+        "Deckel": {
+            "translation": "cover",
+            "level": 3
+        },
+        "Essen": {
+            "translation": "food",
+            "level": 3
+        },
+        "Son": {
+            "translation": "sun",
+            "level": 3
+        },
+        "vier": {
+            "translation": "four",
+            "level": 3
+        },
+        "zwischen": {
+            "translation": "between",
+            "level": 3
+        },
+        "Zustand": {
+            "translation": "cell",
+            "level": 3
+        },
+        "behalten": {
+            "translation": "keep",
+            "level": 3
+        },
+        "eye": {
+            "translation": "eye",
+            "level": 3
+        },
+        "Niemals": {
+            "translation": "never",
+            "level": 3
+        },
+        "letzte": {
+            "translation": "last",
+            "level": 3
+        },
+        "dass ein Verfahren aus den nachstehend aufgeführten Gründen gegen Sie eingeleitet wurde": {
+            "translation": "let",
+            "level": 3
+        },
+        "Gedanke": {
+            "translation": "thought",
+            "level": 3
+        },
+        "Stadt": {
+            "translation": "city",
+            "level": 3
+        },
+        "Baum": {
+            "translation": "tree",
+            "level": 3
+        },
+        "Kreuz": {
+            "translation": "cross",
+            "level": 3
+        },
+        "Bauernhof": {
+            "translation": "farm",
+            "level": 3
+        },
+        "Schwer": {
+            "translation": "hard",
+            "level": 3
+        },
+        "start": {
+            "translation": "start",
+            "level": 3
+        },
+        "Macht": {
+            "translation": "might",
+            "level": 3
+        },
+        "Story": {
+            "translation": "story",
+            "level": 3
+        },
+        "Säge": {
+            "translation": "saw",
+            "level": 3
+        },
+        "weit": {
+            "translation": "far",
+            "level": 3
+        },
+        "Meer": {
+            "translation": "sea",
+            "level": 3
+        },
+        "Ziehen": {
+            "translation": "draw",
+            "level": 3
+        },
+        "Linksbündig": {
+            "translation": "left",
+            "level": 3
+        },
+        "verspätet": {
+            "translation": "late",
+            "level": 3
+        },
+        "Ausführen": {
+            "translation": "run",
+            "level": 3
+        },
+        "nicht": {
+            "translation": "don't",
+            "level": 3
+        },
+        "while (solange)": {
+            "translation": "while",
+            "level": 3
+        },
+        "drücken": {
+            "translation": "press",
+            "level": 3
+        },
+        "schließen": {
+            "translation": "close",
+            "level": 3
+        },
+        "Nacht": {
+            "translation": "night",
+            "level": 3
+        },
+        "echt": {
+            "translation": "real",
+            "level": 3
+        },
+        "Leben": {
+            "translation": "life",
+            "level": 3
+        },
+        "paar": {
+            "translation": "few",
+            "level": 3
+        },
+        "Norden": {
+            "translation": "north",
+            "level": 3
+        },
+        "öffnen": {
+            "translation": "open",
+            "level": 3
+        },
+        "scheinen": {
+            "translation": "seem",
+            "level": 3
+        },
+        "wir zusammen": {
+            "translation": "together",
+            "level": 3
+        },
+        "nächster": {
+            "translation": "next",
+            "level": 3
+        },
+        "weiß": {
+            "translation": "white",
+            "level": 3
+        },
+        "Kinder": {
+            "translation": "children",
+            "level": 3
+        },
+        "Anfang": {
+            "translation": "begin",
+            "level": 3
+        },
+        "abgekriegt": {
+            "translation": "got",
+            "level": 3
+        },
+        "gehen": {
+            "translation": "walk",
+            "level": 3
+        },
+        "Beispiel": {
+            "translation": "example",
+            "level": 3
+        },
+        "Ease": {
+            "translation": "ease",
+            "level": 3
+        },
+        "Papier": {
+            "translation": "paper",
+            "level": 3
+        },
+        "Gruppe": {
+            "translation": "group",
+            "level": 3
+        },
+        "iimmer": {
+            "translation": "always",
+            "level": 3
+        },
+        "Musik": {
+            "translation": "music",
+            "level": 3
+        },
+        "diese": {
+            "translation": "those",
+            "level": 3
+        },
+        "beide/s": {
+            "translation": "both",
+            "level": 3
+        },
+        "Bewertung": {
+            "translation": "mark",
+            "level": 3
+        },
+        "oft": {
+            "translation": "often",
+            "level": 3
+        },
+        "Brief": {
+            "translation": "letter",
+            "level": 3
+        },
+        "bis": {
+            "translation": "until",
+            "level": 3
+        },
+        "Meile": {
+            "translation": "mile",
+            "level": 3
+        },
+        "Fluss": {
+            "translation": "river",
+            "level": 3
+        },
+        "Parkplatz": {
+            "translation": "car",
+            "level": 3
+        },
+        "Fuß": {
+            "translation": "feet",
+            "level": 3
+        },
+        "Pflege": {
+            "translation": "care",
+            "level": 3
+        },
+        "Sekunde": {
+            "translation": "second",
+            "level": 3
+        },
+        "buchen": {
+            "translation": "book",
+            "level": 3
+        },
+        "tragen": {
+            "translation": "carry",
+            "level": 3
+        },
+        "brauchte": {
+            "translation": "took",
+            "level": 3
+        }
+    },
+    {
+        "science": {
+            "translation": "science",
+            "level": 3
+        },
+        "essen": {
+            "translation": "eat",
+            "level": 3
+        },
+        "Zimmer": {
+            "translation": "room",
+            "level": 3
+        },
+        "Freund_in": {
+            "translation": "friend",
+            "level": 3
+        },
+        "begonnen": {
+            "translation": "began",
+            "level": 3
+        },
+        "Idee": {
+            "translation": "idea",
+            "level": 3
+        },
+        "Fisch": {
+            "translation": "fish",
+            "level": 3
+        },
+        "Berg": {
+            "translation": "mountain",
+            "level": 3
+        },
+        "Stopp wird aufrechterhalten": {
+            "translation": "stop",
+            "level": 3
+        },
+        "einmal": {
+            "translation": "once",
+            "level": 3
+        },
+        "hören": {
+            "translation": "hear",
+            "level": 3
+        },
+        "Pferd": {
+            "translation": "horse",
+            "level": 3
+        },
+        "schneiden, geschnitten": {
+            "translation": "cut",
+            "level": 3
+        },
+        "sicher": {
+            "translation": "sure",
+            "level": 3
+        },
+        "Uhr": {
+            "translation": "watch",
+            "level": 3
+        },
+        "Farbe": {
+            "translation": "paint",
+            "level": 3
+        },
+        "Gesicht": {
+            "translation": "face",
+            "level": 3
+        },
+        "Holz": {
+            "translation": "wood",
+            "level": 3
+        },
+        "Übersicht": {
+            "translation": "main",
+            "level": 3
+        },
+        "genug": {
+            "translation": "enough",
+            "level": 3
+        },
+        "Ebene": {
+            "translation": "plain",
+            "level": 3
+        },
+        "Mädchen": {
+            "translation": "girl",
+            "level": 3
+        },
+        "übliche": {
+            "translation": "usual",
+            "level": 3
+        },
+        "jung": {
+            "translation": "young",
+            "level": 3
+        },
+        "fertig": {
+            "translation": "done",
+            "level": 3
+        },
+        "Oberhalb": {
+            "translation": "above",
+            "level": 3
+        },
+        "seit Beginn": {
+            "translation": "ever",
+            "level": 3
+        },
+        "rot": {
+            "translation": "red",
+            "level": 3
+        },
+        "Liste": {
+            "translation": "list",
+            "level": 3
+        },
+        "obwohl": {
+            "translation": "though",
+            "level": 3
+        },
+        "fühlen": {
+            "translation": "feel",
+            "level": 3
+        },
+        "sich unterhalten": {
+            "translation": "talk",
+            "level": 3
+        },
+        "Vogel": {
+            "translation": "bird",
+            "level": 3
+        },
+        "bald": {
+            "translation": "soon",
+            "level": 3
+        },
+        "body": {
+            "translation": "body",
+            "level": 3
+        },
+        "Hund": {
+            "translation": "dog",
+            "level": 3
+        },
+        "Familie": {
+            "translation": "family",
+            "level": 3
+        },
+        "direkten": {
+            "translation": "direct",
+            "level": 3
+        },
+        "Pose": {
+            "translation": "pose",
+            "level": 3
+        },
+        "verlassen": {
+            "translation": "leave",
+            "level": 3
+        },
+        "Song": {
+            "translation": "song",
+            "level": 3
+        },
+        "Messung": {
+            "translation": "measure",
+            "level": 3
+        },
+        "tür": {
+            "translation": "door",
+            "level": 3
+        },
+        "Produkt": {
+            "translation": "product",
+            "level": 3
+        },
+        "schwarz": {
+            "translation": "black",
+            "level": 3
+        },
+        "kurz": {
+            "translation": "short",
+            "level": 3
+        },
+        "Ziffernsymbol": {
+            "translation": "numeral",
+            "level": 3
+        },
+        "Klasse": {
+            "translation": "class",
+            "level": 3
+        },
+        "Wind": {
+            "translation": "wind",
+            "level": 3
+        },
+        "Jammern": {
+            "translation": "question",
+            "level": 3
+        },
+        "zulassen": {
+            "translation": "happen",
+            "level": 3
+        },
+        "vollständig": {
+            "translation": "complete",
+            "level": 3
+        },
+        "shiff": {
+            "translation": "ship",
+            "level": 3
+        },
+        "Platzbedarf": {
+            "translation": "area",
+            "level": 3
+        },
+        "Hälfte": {
+            "translation": "half",
+            "level": 3
+        },
+        "Rock": {
+            "translation": "rock",
+            "level": 3
+        },
+        "Bestellung": {
+            "translation": "order",
+            "level": 3
+        },
+        "Feuer": {
+            "translation": "fire",
+            "level": 3
+        },
+        "Süden": {
+            "translation": "south",
+            "level": 3
+        },
+        "Problem": {
+            "translation": "problem",
+            "level": 3
+        },
+        "Stück": {
+            "translation": "piece",
+            "level": 3
+        },
+        "Told": {
+            "translation": "told",
+            "level": 3
+        },
+        "wusste": {
+            "translation": "knew",
+            "level": 3
+        },
+        "bestehen": {
+            "translation": "pass",
+            "level": 3
+        },
+        "seit": {
+            "translation": "since",
+            "level": 3
+        },
+        "oben": {
+            "translation": "top",
+            "level": 3
+        },
+        "gesamt": {
+            "translation": "whole",
+            "level": 3
+        },
+        "König": {
+            "translation": "king",
+            "level": 3
+        },
+        "Zwischenraum": {
+            "translation": "space",
+            "level": 3
+        },
+        "gehört": {
+            "translation": "heard",
+            "level": 3
+        },
+        "das Beste": {
+            "translation": "best",
+            "level": 3
+        },
+        "Stunde": {
+            "translation": "hour",
+            "level": 3
+        },
+        "besser": {
+            "translation": "better",
+            "level": 3
+        },
+        "true": {
+            "translation": "true",
+            "level": 3
+        },
+        "während": {
+            "translation": "during",
+            "level": 3
+        },
+        "hundert": {
+            "translation": "hundred",
+            "level": 3
+        },
+        "fünf": {
+            "translation": "five",
+            "level": 3
+        },
+        "Erinnern": {
+            "translation": "remember",
+            "level": 3
+        },
+        "Schritt": {
+            "translation": "step",
+            "level": 3
+        },
+        "früh": {
+            "translation": "early",
+            "level": 3
+        },
+        "Halten": {
+            "translation": "hold",
+            "level": 3
+        },
+        "西": {
+            "translation": "west",
+            "level": 3
+        },
+        "Null-Potential": {
+            "translation": "ground",
+            "level": 3
+        },
+        "Zins": {
+            "translation": "interest",
+            "level": 3
+        },
+        "offenes Reck": {
+            "translation": "reach",
+            "level": 3
+        },
+        "schnell": {
+            "translation": "quick",
+            "level": 3
+        },
+        "Verb": {
+            "translation": "verb",
+            "level": 3
+        },
+        "singen": {
+            "translation": "sing",
+            "level": 3
+        },
+        "Listen": {
+            "translation": "listen",
+            "level": 3
+        },
+        "sechs": {
+            "translation": "six",
+            "level": 3
+        },
+        "Tabelle": {
+            "translation": "table",
+            "level": 3
+        },
+        "Strecke": {
+            "translation": "travel",
+            "level": 3
+        },
+        "weniger": {
+            "translation": "less",
+            "level": 3
+        },
+        "morgens": {
+            "translation": "morning",
+            "level": 3
+        },
+        "zehn": {
+            "translation": "ten",
+            "level": 3
+        },
+        "Einfach": {
+            "translation": "simple",
+            "level": 3
+        },
+        "mehrere": {
+            "translation": "several",
+            "level": 3
+        },
+        "Vokal": {
+            "translation": "vowel",
+            "level": 3
+        },
+        "strebt gegen": {
+            "translation": "toward",
+            "level": 3
+        },
+        "Krieg": {
+            "translation": "war",
+            "level": 3
+        },
+        "Schlag": {
+            "translation": "lay",
+            "level": 3
+        },
+        "anhand": {
+            "translation": "against",
+            "level": 3
+        },
+        "Muster": {
+            "translation": "pattern",
+            "level": 3
+        },
+        "langsam": {
+            "translation": "slow",
+            "level": 3
+        },
+        "Zentriert": {
+            "translation": "center",
+            "level": 3
+        },
+        "verliebt": {
+            "translation": "love",
+            "level": 3
+        },
+        "Person": {
+            "translation": "person",
+            "level": 3
+        },
+        "Geld": {
+            "translation": "money",
+            "level": 3
+        },
+        "dienen": {
+            "translation": "serve",
+            "level": 3
+        },
+        "Arbeitsmappe": {
+            "translation": "appear",
+            "level": 3
+        },
+        "Straße": {
+            "translation": "street",
+            "level": 3
+        },
+        "Karte": {
+            "translation": "map",
+            "level": 3
+        },
+        "Regen": {
+            "translation": "rain",
+            "level": 3
+        },
+        "trenner": {
+            "translation": "rule",
+            "level": 3
+        },
+        "regieren": {
+            "translation": "govern",
+            "level": 3
+        },
+        "Pull": {
+            "translation": "pull",
+            "level": 3
+        },
+        "kalt": {
+            "translation": "cold",
+            "level": 3
+        },
+        "beachten": {
+            "translation": "notice",
+            "level": 3
+        },
+        "voice": {
+            "translation": "voice",
+            "level": 3
+        },
+        "Einheit": {
+            "translation": "unit",
+            "level": 3
+        },
+        "Leistung": {
+            "translation": "power",
+            "level": 3
+        },
+        "ttadt": {
+            "translation": "town",
+            "level": 3
+        },
+        "fein": {
+            "translation": "fine",
+            "level": 3
+        },
+        "gewiss": {
+            "translation": "certain",
+            "level": 3
+        },
+        "fliegen": {
+            "translation": "fly",
+            "level": 3
+        },
+        "Rückgang": {
+            "translation": "fall",
+            "level": 3
+        },
+        "lead": {
+            "translation": "lead",
+            "level": 3
+        },
+        "Schrei": {
+            "translation": "cry",
+            "level": 3
+        },
+        "dunkel, düster": {
+            "translation": "dark",
+            "level": 3
+        },
+        "maschine": {
+            "translation": "machine",
+            "level": 3
+        },
+        "note": {
+            "translation": "note",
+            "level": 3
+        },
+        "warten": {
+            "translation": "wait",
+            "level": 3
+        },
+        "plan": {
+            "translation": "plan",
+            "level": 3
+        },
+        "Zahl": {
+            "translation": "figure",
+            "level": 3
+        },
+        "Stern": {
+            "translation": "star",
+            "level": 3
+        },
+        "Box": {
+            "translation": "box",
+            "level": 3
+        },
+        "Substantiv": {
+            "translation": "noun",
+            "level": 3
+        },
+        "Feld": {
+            "translation": "field",
+            "level": 3
+        },
+        "Rest": {
+            "translation": "rest",
+            "level": 3
+        },
+        "richtig": {
+            "translation": "correct",
+            "level": 3
+        },
+        "fähig": {
+            "translation": "able",
+            "level": 3
+        },
+        "Pfund": {
+            "translation": "pound",
+            "level": 3
+        },
+        "Schönheit": {
+            "translation": "beauty",
+            "level": 3
+        },
+        "fahren": {
+            "translation": "drive",
+            "level": 3
+        },
+        "stand": {
+            "translation": "stood",
+            "level": 3
+        },
+        "Einpassen": {
+            "translation": "contain",
+            "level": 3
+        },
+        "vordere Seite": {
+            "translation": "front",
+            "level": 3
+        },
+        "lehren": {
+            "translation": "teach",
+            "level": 3
+        },
+        "Woche": {
+            "translation": "week",
+            "level": 3
+        },
+        "Finale": {
+            "translation": "final",
+            "level": 3
+        },
+        "hat gegeben": {
+            "translation": "gave",
+            "level": 3
+        },
+        "grün": {
+            "translation": "green",
+            "level": 3
+        },
+        "oh": {
+            "translation": "oh",
+            "level": 3
+        },
+        "entwickeln": {
+            "translation": "develop",
+            "level": 3
+        },
+        "Ozean": {
+            "translation": "ocean",
+            "level": 3
+        },
+        "warm": {
+            "translation": "warm",
+            "level": 3
+        },
+        "kostenfrei": {
+            "translation": "free",
+            "level": 3
+        },
+        "Minute": {
+            "translation": "minute",
+            "level": 3
+        },
+        "stark": {
+            "translation": "strong",
+            "level": 3
+        },
+        "Special": {
+            "translation": "special",
+            "level": 3
+        },
+        "sinn": {
+            "translation": "mind",
+            "level": 3
+        },
+        "hinter": {
+            "translation": "behind",
+            "level": 3
+        },
+        "Leeren": {
+            "translation": "clear",
+            "level": 3
+        },
+        "Schwanz": {
+            "translation": "tail",
+            "level": 3
+        },
+        "produzieren": {
+            "translation": "produce",
+            "level": 3
+        },
+        "Tatsache,": {
+            "translation": "fact",
+            "level": 3
+        },
+        "Zoll": {
+            "translation": "inch",
+            "level": 3
+        },
+        "× Multiplikation": {
+            "translation": "multiply",
+            "level": 3
+        },
+        "nichts": {
+            "translation": "nothing",
+            "level": 3
+        },
+        "Kurses": {
+            "translation": "course",
+            "level": 3
+        },
+        "Aufenthalt": {
+            "translation": "stay",
+            "level": 3
+        },
+        "Rad": {
+            "translation": "wheel",
+            "level": 3
+        },
+        "Komplette": {
+            "translation": "full",
+            "level": 3
+        },
+        "erzwingen": {
+            "translation": "force",
+            "level": 3
+        },
+        "blau": {
+            "translation": "blue",
+            "level": 3
+        },
+        "Objekte": {
+            "translation": "object",
+            "level": 3
+        },
+        "entscheiden": {
+            "translation": "decide",
+            "level": 3
+        }
+    },
+    {
+        "Oberfläche": {
+            "translation": "surface",
+            "level": 3
+        },
+        "tief": {
+            "translation": "deep",
+            "level": 3
+        },
+        "Mond": {
+            "translation": "moon",
+            "level": 3
+        },
+        "insel": {
+            "translation": "island",
+            "level": 3
+        },
+        "fuss": {
+            "translation": "foot",
+            "level": 3
+        },
+        "Robotersystem verbunden": {
+            "translation": "system",
+            "level": 3
+        },
+        "beschäftigt": {
+            "translation": "busy",
+            "level": 3
+        },
+        "test": {
+            "translation": "test",
+            "level": 3
+        },
+        "Aufzeichnung": {
+            "translation": "record",
+            "level": 3
+        },
+        "boot": {
+            "translation": "boat",
+            "level": 3
+        },
+        "gemeinsam": {
+            "translation": "common",
+            "level": 3
+        },
+        "Gold": {
+            "translation": "gold",
+            "level": 3
+        },
+        "möglich": {
+            "translation": "possible",
+            "level": 3
+        },
+        "Flugzeug": {
+            "translation": "plane",
+            "level": 3
+        },
+        "Statt": {
+            "translation": "stead",
+            "level": 3
+        },
+        "trocken": {
+            "translation": "dry",
+            "level": 3
+        },
+        "Wunder": {
+            "translation": "wonder",
+            "level": 3
+        },
+        "Lachen": {
+            "translation": "laugh",
+            "level": 3
+        },
+        "tausend": {
+            "translation": "thousand",
+            "level": 3
+        },
+        "her": {
+            "translation": "ago",
+            "level": 3
+        },
+        "EU-Aufklärungsnetzwerk gegen Radikalisierung": {
+            "translation": "ran",
+            "level": 3
+        },
+        "Überprüfen": {
+            "translation": "check",
+            "level": 3
+        },
+        "Spiel": {
+            "translation": "game",
+            "level": 3
+        },
+        "Form": {
+            "translation": "shape",
+            "level": 3
+        },
+        "gleichsetzen": {
+            "translation": "equate",
+            "level": 3
+        },
+        "heiß an": {
+            "translation": "hot",
+            "level": 3
+        },
+        "Fräulein": {
+            "translation": "miss",
+            "level": 3
+        },
+        "ANSCHAFFUNG": {
+            "translation": "brought",
+            "level": 3
+        },
+        "Hitze": {
+            "translation": "heat",
+            "level": 3
+        },
+        "Schnee": {
+            "translation": "snow",
+            "level": 3
+        },
+        "Reifen": {
+            "translation": "tire",
+            "level": 3
+        },
+        "bringen": {
+            "translation": "bring",
+            "level": 3
+        },
+        "Ja": {
+            "translation": "yes",
+            "level": 3
+        },
+        "distanziert": {
+            "translation": "distant",
+            "level": 3
+        },
+        "befüllen": {
+            "translation": "fill",
+            "level": 3
+        },
+        "Osten": {
+            "translation": "east",
+            "level": 3
+        },
+        "Sprache": {
+            "translation": "language",
+            "level": 3
+        },
+        "unter": {
+            "translation": "among",
+            "level": 3
+        },
+        "grand": {
+            "translation": "grand",
+            "level": 3
+        },
+        "Ball": {
+            "translation": "ball",
+            "level": 3
+        },
+        "bis jetzt": {
+            "translation": "yet",
+            "level": 3
+        },
+        "Welle": {
+            "translation": "wave",
+            "level": 3
+        },
+        "trennen": {
+            "translation": "separate",
+            "level": 3
+        },
+        "Herz": {
+            "translation": "heart",
+            "level": 3
+        },
+        "Vormittag": {
+            "translation": "am",
+            "level": 3
+        },
+        "jetzt": {
+            "translation": "present",
+            "level": 3
+        },
+        "schwergängig": {
+            "translation": "heavy",
+            "level": 3
+        },
+        "Tanz": {
+            "translation": "dance",
+            "level": 3
+        },
+        "Motor": {
+            "translation": "engine",
+            "level": 3
+        },
+        "Position": {
+            "translation": "position",
+            "level": 3
+        },
+        "Schwenkarm": {
+            "translation": "arm",
+            "level": 3
+        },
+        "breit": {
+            "translation": "wide",
+            "level": 3
+        },
+        "Segel": {
+            "translation": "sail",
+            "level": 3
+        },
+        "Material": {
+            "translation": "material",
+            "level": 3
+        },
+        "Größe": {
+            "translation": "size",
+            "level": 3
+        },
+        "variieren": {
+            "translation": "vary",
+            "level": 3
+        },
+        "absetzen": {
+            "translation": "settle",
+            "level": 3
+        },
+        "sprechen": {
+            "translation": "speak",
+            "level": 3
+        },
+        "Waga": {
+            "translation": "weight",
+            "level": 3
+        },
+        "allgemein": {
+            "translation": "general",
+            "level": 3
+        },
+        "Eis": {
+            "translation": "ice",
+            "level": 3
+        },
+        "Fall": {
+            "translation": "case",
+            "level": 3
+        },
+        "Kreis": {
+            "translation": "circle",
+            "level": 3
+        },
+        "Paar": {
+            "translation": "pair",
+            "level": 3
+        },
+        "ollo include": {
+            "translation": "include",
+            "level": 3
+        },
+        "Wasserscheide": {
+            "translation": "divide",
+            "level": 3
+        },
+        "Silbe": {
+            "translation": "syllable",
+            "level": 3
+        },
+        "Filz": {
+            "translation": "felt",
+            "level": 3
+        },
+        "vielleicht": {
+            "translation": "perhaps",
+            "level": 3
+        },
+        "pflücken": {
+            "translation": "pick",
+            "level": 3
+        },
+        "plötzlich": {
+            "translation": "sudden",
+            "level": 3
+        },
+        "Zählen": {
+            "translation": "count",
+            "level": 3
+        },
+        "quadratisch": {
+            "translation": "square",
+            "level": 3
+        },
+        "Grund": {
+            "translation": "reason",
+            "level": 3
+        },
+        "Länge": {
+            "translation": "length",
+            "level": 3
+        },
+        "darstellen": {
+            "translation": "represent",
+            "level": 3
+        },
+        "Kunst": {
+            "translation": "art",
+            "level": 3
+        },
+        "Fach": {
+            "translation": "subject",
+            "level": 3
+        },
+        "Region": {
+            "translation": "region",
+            "level": 3
+        },
+        "Energie": {
+            "translation": "energy",
+            "level": 3
+        },
+        "Jagd": {
+            "translation": "hunt",
+            "level": 3
+        },
+        "propable": {
+            "translation": "probable",
+            "level": 3
+        },
+        "Schlafzimmer": {
+            "translation": "bed",
+            "level": 3
+        },
+        "Bruder": {
+            "translation": "brother",
+            "level": 3
+        },
+        "Eiern": {
+            "translation": "egg",
+            "level": 3
+        },
+        "Reiten": {
+            "translation": "ride",
+            "level": 3
+        },
+        "glauben": {
+            "translation": "believe",
+            "level": 3
+        },
+        "Fraktion": {
+            "translation": "fraction",
+            "level": 3
+        },
+        "Waldwirtschaft": {
+            "translation": "forest",
+            "level": 3
+        },
+        "sitzen": {
+            "translation": "sit",
+            "level": 3
+        },
+        "Rennen": {
+            "translation": "race",
+            "level": 3
+        },
+        "Fenster": {
+            "translation": "window",
+            "level": 3
+        },
+        "store": {
+            "translation": "store",
+            "level": 3
+        },
+        "Sommer": {
+            "translation": "summer",
+            "level": 3
+        },
+        "zug": {
+            "translation": "train",
+            "level": 3
+        },
+        "Schlaf": {
+            "translation": "sleep",
+            "level": 3
+        },
+        "beweisen": {
+            "translation": "prove",
+            "level": 3
+        },
+        "einsam": {
+            "translation": "lone",
+            "level": 3
+        },
+        "Bein": {
+            "translation": "leg",
+            "level": 3
+        },
+        "Übung": {
+            "translation": "exercise",
+            "level": 3
+        },
+        "Wand": {
+            "translation": "wall",
+            "level": 3
+        },
+        "Fang": {
+            "translation": "catch",
+            "level": 3
+        },
+        "montieren": {
+            "translation": "mount",
+            "level": 3
+        },
+        "Wunsch": {
+            "translation": "wish",
+            "level": 3
+        },
+        "Himmel": {
+            "translation": "sky",
+            "level": 3
+        },
+        "Behörde": {
+            "translation": "board",
+            "level": 3
+        },
+        "Freude": {
+            "translation": "joy",
+            "level": 3
+        },
+        "Winter": {
+            "translation": "winter",
+            "level": 3
+        },
+        "Sam": {
+            "translation": "sat",
+            "level": 3
+        },
+        "geschrieben": {
+            "translation": "written",
+            "level": 3
+        },
+        "wild": {
+            "translation": "wild",
+            "level": 3
+        },
+        "Instrument": {
+            "translation": "instrument",
+            "level": 3
+        },
+        "gehalten werden kann.": {
+            "translation": "kept",
+            "level": 3
+        },
+        "Glas": {
+            "translation": "glass",
+            "level": 3
+        },
+        "Gras": {
+            "translation": "grass",
+            "level": 3
+        },
+        "Kuh": {
+            "translation": "cow",
+            "level": 3
+        },
+        "Job": {
+            "translation": "job",
+            "level": 3
+        },
+        "Rand": {
+            "translation": "edge",
+            "level": 3
+        },
+        "Schild": {
+            "translation": "sign",
+            "level": 3
+        },
+        "besuchen": {
+            "translation": "visit",
+            "level": 3
+        },
+        "vergangen": {
+            "translation": "past",
+            "level": 3
+        },
+        "sanft, zart": {
+            "translation": "soft",
+            "level": 3
+        },
+        "Spaß": {
+            "translation": "fun",
+            "level": 3
+        },
+        "glänzend": {
+            "translation": "bright",
+            "level": 3
+        },
+        "Gas": {
+            "translation": "gas",
+            "level": 3
+        },
+        "Wetter": {
+            "translation": "weather",
+            "level": 3
+        },
+        "Monat": {
+            "translation": "month",
+            "level": 3
+        },
+        "Millionen": {
+            "translation": "million",
+            "level": 3
+        },
+        "Bär": {
+            "translation": "bear",
+            "level": 3
+        },
+        "beenden": {
+            "translation": "finish",
+            "level": 3
+        },
+        "fröhlich": {
+            "translation": "happy",
+            "level": 3
+        },
+        "Hoffnung": {
+            "translation": "hope",
+            "level": 3
+        },
+        "Blume": {
+            "translation": "flower",
+            "level": 3
+        },
+        "kleiden": {
+            "translation": "clothe",
+            "level": 3
+        },
+        "seltsam": {
+            "translation": "strange",
+            "level": 3
+        },
+        "gegangen.": {
+            "translation": "gone",
+            "level": 3
+        },
+        "springen": {
+            "translation": "jump",
+            "level": 3
+        },
+        "Baby": {
+            "translation": "baby",
+            "level": 3
+        },
+        "acht": {
+            "translation": "eight",
+            "level": 3
+        },
+        "Dorf": {
+            "translation": "village",
+            "level": 3
+        },
+        "treffen": {
+            "translation": "meet",
+            "level": 3
+        },
+        "root": {
+            "translation": "root",
+            "level": 3
+        },
+        "kaufen": {
+            "translation": "buy",
+            "level": 3
+        },
+        "erhöhen": {
+            "translation": "raise",
+            "level": 3
+        },
+        "lösen": {
+            "translation": "solve",
+            "level": 3
+        },
+        "metall": {
+            "translation": "metal",
+            "level": 3
+        },
+        "falls": {
+            "translation": "whether",
+            "level": 3
+        },
+        "push": {
+            "translation": "push",
+            "level": 3
+        },
+        "sieben": {
+            "translation": "seven",
+            "level": 3
+        },
+        "Absatz": {
+            "translation": "paragraph",
+            "level": 3
+        },
+        "dritte": {
+            "translation": "third",
+            "level": 3
+        },
+        "Muss-Bestimmung": {
+            "translation": "shall",
+            "level": 3
+        },
+        "Gehalten": {
+            "translation": "held",
+            "level": 3
+        },
+        "Haar": {
+            "translation": "hair",
+            "level": 3
+        },
+        "Beschreiben": {
+            "translation": "describe",
+            "level": 3
+        },
+        "Koch": {
+            "translation": "cook",
+            "level": 3
+        },
+        "Boden": {
+            "translation": "floor",
+            "level": 3
+        },
+        "entweder": {
+            "translation": "either",
+            "level": 3
+        },
+        "Ergebnis": {
+            "translation": "result",
+            "level": 3
+        },
+        "brennen": {
+            "translation": "burn",
+            "level": 3
+        },
+        "hügel": {
+            "translation": "hill",
+            "level": 3
+        },
+        "Sicherheit": {
+            "translation": "safe",
+            "level": 3
+        },
+        "Katze": {
+            "translation": "cat",
+            "level": 3
+        },
+        "Jahrhundert": {
+            "translation": "century",
+            "level": 3
+        },
+        "zu dem Schluss kommen": {
+            "translation": "consider",
+            "level": 3
+        },
+        "holzhauser": {
+            "translation": "type",
+            "level": 3
+        },
+        "Gesetzgebung": {
+            "translation": "law",
+            "level": 3
+        },
+        "Bit": {
+            "translation": "bit",
+            "level": 3
+        },
+        "Küste": {
+            "translation": "coast",
+            "level": 3
+        },
+        "Kopieren": {
+            "translation": "copy",
+            "level": 3
+        },
+        "phrase": {
+            "translation": "phrase",
+            "level": 3
+        },
+        "Sand": {
+            "translation": "sand",
+            "level": 3
+        },
+        "rollen": {
+            "translation": "roll",
+            "level": 3
+        },
+        "Temperatur": {
+            "translation": "temperature",
+            "level": 3
+        },
+        "Finger": {
+            "translation": "finger",
+            "level": 3
+        },
+        "branchen": {
+            "translation": "industry",
+            "level": 3
+        },
+        "Werte": {
+            "translation": "value",
+            "level": 3
+        }
+    },
+    {
+        "Kampf": {
+            "translation": "fight",
+            "level": 3
+        },
+        "Liegend": {
+            "translation": "lie",
+            "level": 3
+        },
+        "Schwebung": {
+            "translation": "beat",
+            "level": 3
+        },
+        "erregen": {
+            "translation": "excite",
+            "level": 3
+        },
+        "Natürlich": {
+            "translation": "natural",
+            "level": 3
+        },
+        "Siehe": {
+            "translation": "view",
+            "level": 3
+        },
+        "Sinn": {
+            "translation": "sense",
+            "level": 3
+        },
+        "Ohr": {
+            "translation": "ear",
+            "level": 3
+        },
+        "else": {
+            "translation": "else",
+            "level": 3
+        },
+        "ganz": {
+            "translation": "quite",
+            "level": 3
+        },
+        "Fertigungsausschuß": {
+            "translation": "broke",
+            "level": 3
+        },
+        "mittel": {
+            "translation": "middle",
+            "level": 3
+        },
+        "töten": {
+            "translation": "kill",
+            "level": 3
+        },
+        "Sohn": {
+            "translation": "son",
+            "level": 3
+        },
+        "See": {
+            "translation": "lake",
+            "level": 3
+        },
+        "Augenblick zu nutzen": {
+            "translation": "moment",
+            "level": 3
+        },
+        "规模": {
+            "translation": "scale",
+            "level": 3
+        },
+        "laut": {
+            "translation": "loud",
+            "level": 3
+        },
+        "Frühling": {
+            "translation": "spring",
+            "level": 3
+        },
+        "beobachten": {
+            "translation": "observe",
+            "level": 3
+        },
+        "Kind": {
+            "translation": "child",
+            "level": 3
+        },
+        "Konsonant": {
+            "translation": "consonant",
+            "level": 3
+        },
+        "Wörterbuch": {
+            "translation": "dictionary",
+            "level": 3
+        },
+        "Milch": {
+            "translation": "milk",
+            "level": 3
+        },
+        "Geschwindigkeit": {
+            "translation": "speed",
+            "level": 3
+        },
+        "Methode": {
+            "translation": "method",
+            "level": 3
+        },
+        "Organ": {
+            "translation": "organ",
+            "level": 3
+        },
+        "Bezahlen": {
+            "translation": "pay",
+            "level": 3
+        },
+        "Alter": {
+            "translation": "age",
+            "level": 3
+        },
+        "Inhaltsbereich": {
+            "translation": "section",
+            "level": 3
+        },
+        "Kleid": {
+            "translation": "dress",
+            "level": 3
+        },
+        "cloud": {
+            "translation": "cloud",
+            "level": 3
+        },
+        "überraschen": {
+            "translation": "surprise",
+            "level": 3
+        },
+        "ruhig": {
+            "translation": "quiet",
+            "level": 3
+        },
+        "Stein": {
+            "translation": "stone",
+            "level": 3
+        },
+        "winzig": {
+            "translation": "tiny",
+            "level": 3
+        },
+        "steigen": {
+            "translation": "climb",
+            "level": 3
+        },
+        "cool": {
+            "translation": "cool",
+            "level": 3
+        },
+        "Design": {
+            "translation": "design",
+            "level": 3
+        },
+        "schlecht": {
+            "translation": "bad",
+            "level": 3
+        },
+        "Partie": {
+            "translation": "lot",
+            "level": 3
+        },
+        "Experiment": {
+            "translation": "experiment",
+            "level": 3
+        },
+        "unten": {
+            "translation": "bottom",
+            "level": 3
+        },
+        "schlüssel": {
+            "translation": "key",
+            "level": 3
+        },
+        "Eisen": {
+            "translation": "iron",
+            "level": 3
+        },
+        "alleinstehend": {
+            "translation": "single",
+            "level": 3
+        },
+        "Schuss": {
+            "translation": "stick",
+            "level": 3
+        },
+        "Wohnung": {
+            "translation": "flat",
+            "level": 3
+        },
+        "zwanzig": {
+            "translation": "twenty",
+            "level": 3
+        },
+        "Haut-": {
+            "translation": "skin",
+            "level": 3
+        },
+        "Lächeln": {
+            "translation": "smile",
+            "level": 3
+        },
+        "Knick": {
+            "translation": "crease",
+            "level": 3
+        },
+        "Loch": {
+            "translation": "hole",
+            "level": 3
+        },
+        "Handel": {
+            "translation": "trade",
+            "level": 3
+        },
+        "Melodie": {
+            "translation": "melody",
+            "level": 3
+        },
+        "Trip": {
+            "translation": "trip",
+            "level": 3
+        },
+        "büro": {
+            "translation": "office",
+            "level": 3
+        },
+        "entgegennehmen": {
+            "translation": "receive",
+            "level": 3
+        },
+        "Zeile": {
+            "translation": "row",
+            "level": 3
+        },
+        "Steuerung": {
+            "translation": "mouth",
+            "level": 3
+        },
+        "präzis": {
+            "translation": "exact",
+            "level": 3
+        },
+        "Symbol": {
+            "translation": "symbol",
+            "level": 3
+        },
+        "die": {
+            "translation": "die",
+            "level": 3
+        },
+        "am wenigsten": {
+            "translation": "least",
+            "level": 3
+        },
+        "Ärger": {
+            "translation": "trouble",
+            "level": 3
+        },
+        "schreien": {
+            "translation": "shout",
+            "level": 3
+        },
+        ", außer für": {
+            "translation": "except",
+            "level": 3
+        },
+        "schrieb": {
+            "translation": "wrote",
+            "level": 3
+        },
+        "Samen": {
+            "translation": "seed",
+            "level": 3
+        },
+        "Ton": {
+            "translation": "tone",
+            "level": 3
+        },
+        "beitreten": {
+            "translation": "join",
+            "level": 3
+        },
+        "Vorschlag": {
+            "translation": "suggest",
+            "level": 3
+        },
+        "reinigen": {
+            "translation": "clean",
+            "level": 3
+        },
+        "Pause": {
+            "translation": "break",
+            "level": 3
+        },
+        "Dame": {
+            "translation": "lady",
+            "level": 3
+        },
+        "Yard": {
+            "translation": "yard",
+            "level": 3
+        },
+        "Anstieg": {
+            "translation": "rise",
+            "level": 3
+        },
+        "Blase": {
+            "translation": "blow",
+            "level": 3
+        },
+        "Öl": {
+            "translation": "oil",
+            "level": 3
+        },
+        "Blut": {
+            "translation": "blood",
+            "level": 3
+        },
+        "berühren": {
+            "translation": "touch",
+            "level": 3
+        },
+        "also immer vergrößert.": {
+            "translation": "grew",
+            "level": 3
+        },
+        "Cent": {
+            "translation": "cent",
+            "level": 3
+        },
+        "mischen": {
+            "translation": "mix",
+            "level": 3
+        },
+        "-Team": {
+            "translation": "team",
+            "level": 3
+        },
+        "Banküberweisung": {
+            "translation": "wire",
+            "level": 3
+        },
+        "Kosten": {
+            "translation": "cost",
+            "level": 3
+        },
+        "verloren": {
+            "translation": "lost",
+            "level": 3
+        },
+        "Braun": {
+            "translation": "brown",
+            "level": 3
+        },
+        "würde": {
+            "translation": "wear",
+            "level": 3
+        },
+        "Garten": {
+            "translation": "garden",
+            "level": 3
+        },
+        "equal": {
+            "translation": "equal",
+            "level": 3
+        },
+        "gesendet": {
+            "translation": "sent",
+            "level": 3
+        },
+        "auswählen": {
+            "translation": "choose",
+            "level": 3
+        },
+        "aushauen": {
+            "translation": "fell",
+            "level": 3
+        },
+        "Fit": {
+            "translation": "fit",
+            "level": 3
+        },
+        "fluss": {
+            "translation": "flow",
+            "level": 3
+        },
+        "messe": {
+            "translation": "fair",
+            "level": 3
+        },
+        "Bank": {
+            "translation": "bank",
+            "level": 3
+        },
+        "Erhebt": {
+            "translation": "collect",
+            "level": 3
+        },
+        "speichern": {
+            "translation": "save",
+            "level": 3
+        },
+        "kontrolle": {
+            "translation": "control",
+            "level": 3
+        },
+        "Dezimal": {
+            "translation": "decimal",
+            "level": 3
+        },
+        "sanft": {
+            "translation": "gentle",
+            "level": 3
+        },
+        "Frau": {
+            "translation": "woman",
+            "level": 3
+        },
+        "Kapitän": {
+            "translation": "captain",
+            "level": 3
+        },
+        "eher unüblich": {
+            "translation": "practice",
+            "level": 3
+        },
+        "schwierig": {
+            "translation": "difficult",
+            "level": 3
+        },
+        "Arzt": {
+            "translation": "doctor",
+            "level": 3
+        },
+        "klicken Sie bitte": {
+            "translation": "please",
+            "level": 3
+        },
+        "Schützen": {
+            "translation": "protect",
+            "level": 3
+        },
+        "Mittag": {
+            "translation": "noon",
+            "level": 3
+        },
+        "Wessen": {
+            "translation": "whose",
+            "level": 3
+        },
+        "Finde": {
+            "translation": "locate",
+            "level": 3
+        },
+        "Ring": {
+            "translation": "ring",
+            "level": 3
+        },
+        "Charakter": {
+            "translation": "character",
+            "level": 3
+        },
+        "Insekt": {
+            "translation": "insect",
+            "level": 3
+        },
+        "ertappt": {
+            "translation": "caught",
+            "level": 3
+        },
+        "frist": {
+            "translation": "period",
+            "level": 3
+        },
+        "anzeigen": {
+            "translation": "indicate",
+            "level": 3
+        },
+        "Radio": {
+            "translation": "radio",
+            "level": 3
+        },
+        "Speiche": {
+            "translation": "spoke",
+            "level": 3
+        },
+        "Atom": {
+            "translation": "atom",
+            "level": 3
+        },
+        "Mensch": {
+            "translation": "human",
+            "level": 3
+        },
+        "Geschichte": {
+            "translation": "history",
+            "level": 3
+        },
+        "Effekt": {
+            "translation": "effect",
+            "level": 3
+        },
+        "elektrisch": {
+            "translation": "electric",
+            "level": 3
+        },
+        "erwarten": {
+            "translation": "expect",
+            "level": 3
+        },
+        "zuschneiden": {
+            "translation": "crop",
+            "level": 3
+        },
+        "modern": {
+            "translation": "modern",
+            "level": 3
+        },
+        "Element": {
+            "translation": "element",
+            "level": 3
+        },
+        "Treffereinheit": {
+            "translation": "hit",
+            "level": 3
+        },
+        "schüler": {
+            "translation": "student",
+            "level": 3
+        },
+        "Ecke": {
+            "translation": "corner",
+            "level": 3
+        },
+        "Party": {
+            "translation": "party",
+            "level": 3
+        },
+        "Anlieferung": {
+            "translation": "supply",
+            "level": 3
+        },
+        "Knochen": {
+            "translation": "bone",
+            "level": 3
+        },
+        "Schiene": {
+            "translation": "rail",
+            "level": 3
+        },
+        "vorstellen": {
+            "translation": "imagine",
+            "level": 3
+        },
+        "bereitstellen": {
+            "translation": "provide",
+            "level": 3
+        },
+        "voll zu": {
+            "translation": "agree",
+            "level": 3
+        },
+        "damit": {
+            "translation": "thus",
+            "level": 3
+        },
+        "Kapitals": {
+            "translation": "capital",
+            "level": 3
+        },
+        "Gewohnheit": {
+            "translation": "won't",
+            "level": 3
+        },
+        "Stuhl": {
+            "translation": "chair",
+            "level": 3
+        },
+        "Gefahr": {
+            "translation": "danger",
+            "level": 3
+        },
+        "Obst": {
+            "translation": "fruit",
+            "level": 3
+        },
+        "Reich": {
+            "translation": "rich",
+            "level": 3
+        },
+        "dick": {
+            "translation": "thick",
+            "level": 3
+        },
+        "Soldat": {
+            "translation": "soldier",
+            "level": 3
+        },
+        "Maschinen": {
+            "translation": "operate",
+            "level": 3
+        },
+        "Vermuten": {
+            "translation": "guess",
+            "level": 3
+        },
+        "erforderlich": {
+            "translation": "necessary",
+            "level": 3
+        },
+        "scharf": {
+            "translation": "sharp",
+            "level": 3
+        },
+        "Flügel": {
+            "translation": "wing",
+            "level": 3
+        },
+        "erstellen": {
+            "translation": "create",
+            "level": 3
+        },
+        "Nachbar_in": {
+            "translation": "neighbor",
+            "level": 3
+        },
+        "waschen": {
+            "translation": "wash",
+            "level": 3
+        },
+        "Fledermaus": {
+            "translation": "bat",
+            "level": 3
+        },
+        "ziemlich": {
+            "translation": "rather",
+            "level": 3
+        },
+        "Menge": {
+            "translation": "crowd",
+            "level": 3
+        },
+        "Mais": {
+            "translation": "corn",
+            "level": 3
+        },
+        "vergleichen": {
+            "translation": "compare",
+            "level": 3
+        },
+        "Gedicht": {
+            "translation": "poem",
+            "level": 3
+        },
+        "Schnur": {
+            "translation": "string",
+            "level": 3
+        },
+        "Glocke": {
+            "translation": "bell",
+            "level": 3
+        },
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 05 MINUTES 54 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE": {
+            "translation": "tube",
+            "level": 3
+        },
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 05 MINUTES 53 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE": {
+            "translation": "major",
+            "level": 3
+        },
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 05 MINUTES 52 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE": {
+            "translation": "block",
+            "level": 3
+        },
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 05 MINUTES 51 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE": {
+            "translation": "spread",
+            "level": 3
+        },
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 05 MINUTES 50 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE": {
+            "translation": "shop",
+            "level": 3
+        },
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 05 MINUTES 49 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE": {
+            "translation": "plural",
+            "level": 3
+        },
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 05 MINUTES 48 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE": {
+            "translation": "branch",
+            "level": 3
+        },
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 05 MINUTES 47 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE": {
+            "translation": "bought",
+            "level": 3
+        },
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 05 MINUTES 46 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE": {
+            "translation": "basic",
+            "level": 3
+        },
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 05 MINUTES 45 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE": {
+            "translation": "post",
+            "level": 3
+        },
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 05 MINUTES 44 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE": {
+            "translation": "slave",
+            "level": 3
+        },
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 05 MINUTES 43 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE": {
+            "translation": "motion",
+            "level": 3
+        },
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 05 MINUTES 42 SECONDSVISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE": {
+            "translation": "neck",
+            "level": 3
+        }
+    }
+]
