@@ -1,12 +1,12 @@
-In this directory there are the files:
+In this directory there are these files:
 
 'en_words.txt',
 
 'script.py',
 
-'data.json'
+'data.json' (and of course this README)
 
-(and of course this README)
+#########
 
 What the files are for:
 
