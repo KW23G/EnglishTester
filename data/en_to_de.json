@@ -285,7 +285,7 @@
             "level": 3
         },
         "must": {
-            "translation": "Traubenmost",
+            "translation": "muss",
             "level": 3
         },
         "big": {
@@ -389,7 +389,7 @@
             "level": 3
         },
         "self": {
-            "translation": "Selbst",
+            "translation": "Persönlichkeit",
             "level": 3
         },
         "earth": {
@@ -553,7 +553,7 @@
             "level": 3
         },
         "left": {
-            "translation": "verfügbar",
+            "translation": "Linksbündig",
             "level": 3
         },
         "late": {
@@ -613,7 +613,7 @@
             "level": 3
         },
         "next": {
-            "translation": "weiter",
+            "translation": "nächster",
             "level": 3
         },
         "white": {
@@ -1015,7 +1015,7 @@
             "level": 3
         },
         "better": {
-            "translation": "bessere",
+            "translation": "besser",
             "level": 3
         },
         "true": {
@@ -1687,7 +1687,7 @@
             "level": 3
         },
         "general": {
-            "translation": "Allgemein",
+            "translation": "allgemein",
             "level": 3
         },
         "ice": {
@@ -2349,7 +2349,7 @@
             "level": 3
         },
         "lot": {
-            "translation": "lot",
+            "translation": "Partie",
             "level": 3
         },
         "experiment": {
