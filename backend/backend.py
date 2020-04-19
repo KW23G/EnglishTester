@@ -19,7 +19,7 @@ def get_word(lan):  # lan = de / en
 
 
 def check_translation(en, de):
-    file = read("en_keys.json")
+    file = read("en_to_de.json")
 
     for x in range(4):
         if en in file[x]:
