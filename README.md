@@ -13,3 +13,5 @@ How we do it:
 2: we write a Python script that translates the words and creates a json file with the words (script.py)
 
 3: we create the real program that checks you
+
+#dfjf
