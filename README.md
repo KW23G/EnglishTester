@@ -14,4 +14,3 @@ How we do it:
 
 3: we create the real program that checks you
 
-*fef*
