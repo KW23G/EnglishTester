@@ -1,4 +1,4 @@
-**EnglishTester**
+# EnglishTester
 
 This is a program that tests your english / german vocabulary.
 There is a GUI and a cmd-line app.
