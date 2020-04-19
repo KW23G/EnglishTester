@@ -1,4 +1,6 @@
-In this directory there are these files:
+**data**
+
+*In this directory there are these files:*
 
 'en_words.txt',
 
@@ -10,7 +12,7 @@ In this directory there are these files:
 
 #########
 
-What the files are for:
+*What the files are for:*
 
 -'en_words.txt' is a list of the most important english words
 
