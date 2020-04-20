@@ -1,4 +1,5 @@
 import json
+import random
 
 # helper functions:
 
@@ -10,7 +11,7 @@ def read(file):
 
 def write(content, file):
     with open(f"../data/{file}", "w") as f:
-        return json.dump(content, f)
+        json.dump(content, f)
 
 
 def create_dict(keys, values):
@@ -20,7 +21,21 @@ def create_dict(keys, values):
 
 
 def get_word(lan):  # lan = de / en
-    pass
+    if lan != "en" or lan != "de":
+        raise Exception()
+
+    json_file = read("en_to_de.json") if lan == "en" else read("de_to_en.json")
+
+    prozent = random.randint(1, 100)
+
+    if prozent <= 50:  # 50 %
+        section = json_file[0]
+    elif prozent <= 80:  # 30 %
+        section = json_file[1]
+    elif prozent <= 93:  # 13 %
+        section = json_file[2]
+    else:  # 7 %
+        section = json_file[3]
 
 
 def check_en_to_de(en, de):
