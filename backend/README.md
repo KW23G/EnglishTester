@@ -2,9 +2,9 @@
 
 ***There are two things the backend has to do:***
 
-* check if the translation of a word is correct
+* check if the translation of a word is correct (.check_de_to_en() and .check_en_to_de())
 
-* get a random word from the json files
+* get a random word from the json files (.get_word())
 
 *Checking a translation:*
 
