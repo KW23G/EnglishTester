@@ -5,12 +5,12 @@ import random
 
 
 def read(file):
-    with open(f"../data/{file}", "r") as f:
+    with open(f"data/{file}", "r") as f:
         return json.load(f)
 
 
 def write(content, file):
-    with open(f"../data/{file}", "w") as f:
+    with open(f"data/{file}", "w") as f:
         json.dump(content, f)
 
 
