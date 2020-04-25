@@ -7,7 +7,7 @@ There is a GUI and a cmd-line app.
 
 * json
 
-* tkinter
+* Electron
 
 * translate (python library)
 
