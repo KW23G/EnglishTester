@@ -8,8 +8,12 @@
 
 *Checking a translation:*
 
-That's pretty easy: As an input we get the english and the german word, then we look
-for the english word in data/en_to_de.json and we check if its translation = german word
+For that, we have two functions: .check_de_to_en() and .check_en_to_de():
+The input for both functions are the german and the english words.
+In .check_de_to_en(), the computer opens de_to_en.json, looks if the translation
+is correct, and if it is, the computer subtracts 1 from the level.
+The .check_en_to_de() functions does the same thing, but it opens the other file
+(en_to_de.json).
 
 *Getting random word:*
 
