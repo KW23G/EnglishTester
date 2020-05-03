@@ -45,4 +45,4 @@ Now we have to choose a rondom level, so that we know which group we must choose
 
 I don't know how to do the rest. It is very difficult to choose a random level because there can be any number of
 different groups (remember: a group is a group of words which have the same level).
-(Actually it isn't really random)
+(Actually it isn't really *random*)
