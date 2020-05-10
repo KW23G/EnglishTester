@@ -5,11 +5,11 @@ There is a GUI and a cmd-line app.
 
 ## Things we are using:
 
-* json
+* **json** to store words / translations and their levels
 
-* Electron
+* **Electron** for the Frontend
 
-* translate (python library)
+* **translate** (python library) to translate all the english word
 
 * a list of 1000 english words from https://gist.github.com/deekayen/4148741
 
